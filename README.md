@@ -2,8 +2,7 @@
 	<h1>Hi! I'm <a href="https://github.com/thevi31415">Nguyen Duong The Vi</a> :heart_eyes: !</h1>
 	<div>I'm a student of <a href="https://hcmute.edu.vn/">Ho Chi Minh City University of Technology and Education (HCMUTE)</a> </div>
 	<br />
-	
-## Skills:
+
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
@@ -14,7 +13,9 @@
 	<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
 	<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 	<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+	<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 	<img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+	<img width="48" height="48" src="https://img.icons8.com/color/48/latex.png" alt="latex"/>
      <img width="48" height="48" src="https://img.icons8.com/color-glass/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 </p>
 
