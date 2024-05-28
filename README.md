@@ -2,8 +2,7 @@
 	
  
 	
-
-
+I want to become a web developer with ASP.NET Core.
 
 <table style="width:100%;">
   <tr>
