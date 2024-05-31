@@ -10,7 +10,7 @@
 ## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,dotnet,eclipse,firebase,github,latex,mysql,ps,visualstudio,vscode,react,nextjs,pycharm,python" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,dotnet,firebase,github,latex,mysql,ps,visualstudio,vscode,react,nextjs" />
   </a>
 </p>
 
