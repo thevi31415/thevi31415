@@ -1,8 +1,19 @@
+ <h2 align="center">Hi, I'm Nguyen Duong The Vi 👋👋
+</h2>
+<p align="center">
+  <h3 align="center"> I am a third-year student at Ho Chi Minh City University of Technology and Education. </h3>
+</p>
+
+## Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,dotnet,eclipse,firebase,github,latex,mysql,ps,visualstudio,vscode,react,nextjs,pycharm,python" />
+  </a>
+</p>
+
+## Activities:
 <div align="center">
 	
- 
-	
-I want to become a web developer with ASP.NET Core.
 
 <table style="width:100%;">
   <tr>
