@@ -1,10 +1,12 @@
  <h2 align="center">Hi, I'm Nguyen Duong The Vi 👋👋
 </h2>
-<p align="center">
-  <h3 align="center"> I am a third-year student at Ho Chi Minh City University of Technology and Education. </h3>
+
+<h3 align="center"> I am a third-year student at Ho Chi Minh City University of Technology and Education. </h3>
 	 <h3 align="center">👉My website: https://nguyenduongtheviblog.vercel.app/</h3>
+ 
+<p align="center"><b> Visitors Count  </b> <br> <img align="center" src="https://profile-counter.glitch.me/{thevi31415}/count.svg" /></p> 
 	
-</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Skills:
